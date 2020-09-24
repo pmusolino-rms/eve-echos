@@ -1,5 +1,5 @@
 // Eve Echos
-// by [musolino](https://graphcommons.com/musolino)
+// by piter50
 // 
 // A map of routes in Eve
 //
